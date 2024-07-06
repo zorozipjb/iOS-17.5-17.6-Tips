@@ -1,8 +1,3 @@
-<?php
-	header("Location: https://iospack.com/vip/", true, 301);
-	exit();
-?>
-
 <html>
 <head>
 	<meta charset="utf-8">
@@ -13,9 +8,7 @@
 </head>
 <body>
 
-	<h1>iOSPack Store</h1>
+	<h1>Welcome to iOSPack Store</h1>
 
 </body>
 </html>
-
-
